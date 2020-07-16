@@ -31,15 +31,15 @@ source("./R/gather_data.R")
 
 ```
 
+
+
+```{r amostra, eval = FALSE, echo=FALSE, warning=FALSE, message=FALSE,  error=FALSE}
 ## Amostra dos dados   
 
-
-```{r amostra, echo=FALSE, warning=FALSE, message=FALSE,  error=FALSE}
-
-amostra %>% 
-  gt() %>% 
-  tab_header(
-    title = "Curitiba 156",
+amostra %>%    
+  gt() %>%    
+  tab_header(     
+    title = "Curitiba 156",     
     subtitle = "Amostra dos dados"
   ) %>%
   fmt_number(
