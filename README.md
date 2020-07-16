@@ -11,7 +11,7 @@ Marcos Abreu
   font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Helvetica Neue', 'Fira Sans', 'Droid Sans', Arial, sans-serif;
 }
 
-#zcrmvffkww .gt_table {
+#fhqeswqswu .gt_table {
   display: table;
   border-collapse: collapse;
   margin-left: auto;
@@ -34,7 +34,7 @@ Marcos Abreu
   border-left-color: #D3D3D3;
 }
 
-#zcrmvffkww .gt_heading {
+#fhqeswqswu .gt_heading {
   background-color: #FFFFFF;
   text-align: center;
   border-bottom-color: #FFFFFF;
@@ -46,7 +46,7 @@ Marcos Abreu
   border-right-color: #D3D3D3;
 }
 
-#zcrmvffkww .gt_title {
+#fhqeswqswu .gt_title {
   color: #333333;
   font-size: 125%;
   font-weight: initial;
@@ -56,7 +56,7 @@ Marcos Abreu
   border-bottom-width: 0;
 }
 
-#zcrmvffkww .gt_subtitle {
+#fhqeswqswu .gt_subtitle {
   color: #333333;
   font-size: 85%;
   font-weight: initial;
@@ -66,13 +66,13 @@ Marcos Abreu
   border-top-width: 0;
 }
 
-#zcrmvffkww .gt_bottom_border {
+#fhqeswqswu .gt_bottom_border {
   border-bottom-style: solid;
   border-bottom-width: 2px;
   border-bottom-color: #D3D3D3;
 }
 
-#zcrmvffkww .gt_col_headings {
+#fhqeswqswu .gt_col_headings {
   border-top-style: solid;
   border-top-width: 2px;
   border-top-color: #D3D3D3;
@@ -87,7 +87,7 @@ Marcos Abreu
   border-right-color: #D3D3D3;
 }
 
-#zcrmvffkww .gt_col_heading {
+#fhqeswqswu .gt_col_heading {
   color: #333333;
   background-color: #FFFFFF;
   font-size: 100%;
@@ -107,7 +107,7 @@ Marcos Abreu
   overflow-x: hidden;
 }
 
-#zcrmvffkww .gt_column_spanner_outer {
+#fhqeswqswu .gt_column_spanner_outer {
   color: #333333;
   background-color: #FFFFFF;
   font-size: 100%;
@@ -119,15 +119,15 @@ Marcos Abreu
   padding-right: 4px;
 }
 
-#zcrmvffkww .gt_column_spanner_outer:first-child {
+#fhqeswqswu .gt_column_spanner_outer:first-child {
   padding-left: 0;
 }
 
-#zcrmvffkww .gt_column_spanner_outer:last-child {
+#fhqeswqswu .gt_column_spanner_outer:last-child {
   padding-right: 0;
 }
 
-#zcrmvffkww .gt_column_spanner {
+#fhqeswqswu .gt_column_spanner {
   border-bottom-style: solid;
   border-bottom-width: 2px;
   border-bottom-color: #D3D3D3;
@@ -139,7 +139,7 @@ Marcos Abreu
   width: 100%;
 }
 
-#zcrmvffkww .gt_group_heading {
+#fhqeswqswu .gt_group_heading {
   padding: 8px;
   color: #333333;
   background-color: #FFFFFF;
@@ -161,7 +161,7 @@ Marcos Abreu
   vertical-align: middle;
 }
 
-#zcrmvffkww .gt_empty_group_heading {
+#fhqeswqswu .gt_empty_group_heading {
   padding: 0.5px;
   color: #333333;
   background-color: #FFFFFF;
@@ -176,15 +176,15 @@ Marcos Abreu
   vertical-align: middle;
 }
 
-#zcrmvffkww .gt_from_md > :first-child {
+#fhqeswqswu .gt_from_md > :first-child {
   margin-top: 0;
 }
 
-#zcrmvffkww .gt_from_md > :last-child {
+#fhqeswqswu .gt_from_md > :last-child {
   margin-bottom: 0;
 }
 
-#zcrmvffkww .gt_row {
+#fhqeswqswu .gt_row {
   padding-top: 8px;
   padding-bottom: 8px;
   padding-left: 5px;
@@ -203,7 +203,7 @@ Marcos Abreu
   overflow-x: hidden;
 }
 
-#zcrmvffkww .gt_stub {
+#fhqeswqswu .gt_stub {
   color: #333333;
   background-color: #FFFFFF;
   font-size: 100%;
@@ -215,7 +215,7 @@ Marcos Abreu
   padding-left: 12px;
 }
 
-#zcrmvffkww .gt_summary_row {
+#fhqeswqswu .gt_summary_row {
   color: #333333;
   background-color: #FFFFFF;
   text-transform: inherit;
@@ -225,7 +225,7 @@ Marcos Abreu
   padding-right: 5px;
 }
 
-#zcrmvffkww .gt_first_summary_row {
+#fhqeswqswu .gt_first_summary_row {
   padding-top: 8px;
   padding-bottom: 8px;
   padding-left: 5px;
@@ -235,7 +235,7 @@ Marcos Abreu
   border-top-color: #D3D3D3;
 }
 
-#zcrmvffkww .gt_grand_summary_row {
+#fhqeswqswu .gt_grand_summary_row {
   color: #333333;
   background-color: #FFFFFF;
   text-transform: inherit;
@@ -245,7 +245,7 @@ Marcos Abreu
   padding-right: 5px;
 }
 
-#zcrmvffkww .gt_first_grand_summary_row {
+#fhqeswqswu .gt_first_grand_summary_row {
   padding-top: 8px;
   padding-bottom: 8px;
   padding-left: 5px;
@@ -255,11 +255,11 @@ Marcos Abreu
   border-top-color: #D3D3D3;
 }
 
-#zcrmvffkww .gt_striped {
+#fhqeswqswu .gt_striped {
   background-color: rgba(128, 128, 128, 0.05);
 }
 
-#zcrmvffkww .gt_table_body {
+#fhqeswqswu .gt_table_body {
   border-top-style: solid;
   border-top-width: 2px;
   border-top-color: #D3D3D3;
@@ -268,7 +268,7 @@ Marcos Abreu
   border-bottom-color: #D3D3D3;
 }
 
-#zcrmvffkww .gt_footnotes {
+#fhqeswqswu .gt_footnotes {
   color: #333333;
   background-color: #FFFFFF;
   border-bottom-style: none;
@@ -282,13 +282,13 @@ Marcos Abreu
   border-right-color: #D3D3D3;
 }
 
-#zcrmvffkww .gt_footnote {
+#fhqeswqswu .gt_footnote {
   margin: 0px;
   font-size: 90%;
   padding: 4px;
 }
 
-#zcrmvffkww .gt_sourcenotes {
+#fhqeswqswu .gt_sourcenotes {
   color: #333333;
   background-color: #FFFFFF;
   border-bottom-style: none;
@@ -302,47 +302,47 @@ Marcos Abreu
   border-right-color: #D3D3D3;
 }
 
-#zcrmvffkww .gt_sourcenote {
+#fhqeswqswu .gt_sourcenote {
   font-size: 90%;
   padding: 4px;
 }
 
-#zcrmvffkww .gt_left {
+#fhqeswqswu .gt_left {
   text-align: left;
 }
 
-#zcrmvffkww .gt_center {
+#fhqeswqswu .gt_center {
   text-align: center;
 }
 
-#zcrmvffkww .gt_right {
+#fhqeswqswu .gt_right {
   text-align: right;
   font-variant-numeric: tabular-nums;
 }
 
-#zcrmvffkww .gt_font_normal {
+#fhqeswqswu .gt_font_normal {
   font-weight: normal;
 }
 
-#zcrmvffkww .gt_font_bold {
+#fhqeswqswu .gt_font_bold {
   font-weight: bold;
 }
 
-#zcrmvffkww .gt_font_italic {
+#fhqeswqswu .gt_font_italic {
   font-style: italic;
 }
 
-#zcrmvffkww .gt_super {
+#fhqeswqswu .gt_super {
   font-size: 65%;
 }
 
-#zcrmvffkww .gt_footnote_marks {
+#fhqeswqswu .gt_footnote_marks {
   font-style: italic;
   font-size: 65%;
 }
 </style>
 
-<div id="zcrmvffkww" style="overflow-x:auto;overflow-y:auto;width:auto;height:auto;">
+<div id="fhqeswqswu" style="overflow-x:auto;overflow-y:auto;width:auto;height:auto;">
 
 <table class="gt_table">
 
@@ -420,47 +420,7 @@ regional\_ass
 
 <td class="gt_row gt_right" style="font-size: 1;">
 
-7.588.252
-
-</td>
-
-<td class="gt_row gt_center" style="font-size: 1;">
-
-RECLAMAÇÃO
-
-</td>
-
-<td class="gt_row gt_center" style="font-size: 1;">
-
-S. M. DA SAÚDE
-
-</td>
-
-<td class="gt_row gt_left" style="font-size: 1;">
-
-2018-12-04
-
-</td>
-
-<td class="gt_row gt_center" style="font-size: 1;">
-
-POSTO DE SAÚDE
-
-</td>
-
-<td class="gt_row gt_center" style="font-size: 1;">
-
-UR CIC
-
-</td>
-
-</tr>
-
-<tr>
-
-<td class="gt_row gt_right" style="font-size: 1;">
-
-7.499.729
+7.924.913
 
 </td>
 
@@ -478,19 +438,19 @@ S. M. DE TRÂNSITO
 
 <td class="gt_row gt_left" style="font-size: 1;">
 
-2018-09-28
+2019-07-14
 
 </td>
 
 <td class="gt_row gt_center" style="font-size: 1;">
 
-TRÂNSITO
+SEMÁFORO
 
 </td>
 
 <td class="gt_row gt_center" style="font-size: 1;">
 
-UR Cajuru
+UR Pinheirinho
 
 </td>
 
@@ -500,7 +460,7 @@ UR Cajuru
 
 <td class="gt_row gt_right" style="font-size: 1;">
 
-8.190.819
+7.365.057
 
 </td>
 
@@ -518,19 +478,19 @@ S. M. DO MEIO AMBIENTE
 
 <td class="gt_row gt_left" style="font-size: 1;">
 
-2020-01-07
+2018-06-05
 
 </td>
 
 <td class="gt_row gt_center" style="font-size: 1;">
 
-FISCALIZAÇÃO DE SANEAMENTO
+COLETA
 
 </td>
 
 <td class="gt_row gt_center" style="font-size: 1;">
 
-UR Tatuquara
+UR Matriz
 
 </td>
 
@@ -540,7 +500,47 @@ UR Tatuquara
 
 <td class="gt_row gt_right" style="font-size: 1;">
 
-7.404.100
+7.440.474
+
+</td>
+
+<td class="gt_row gt_center" style="font-size: 1;">
+
+SOLICITAÇÃO
+
+</td>
+
+<td class="gt_row gt_center" style="font-size: 1;">
+
+S. M. DO MEIO AMBIENTE
+
+</td>
+
+<td class="gt_row gt_left" style="font-size: 1;">
+
+2018-08-08
+
+</td>
+
+<td class="gt_row gt_center" style="font-size: 1;">
+
+COLETA
+
+</td>
+
+<td class="gt_row gt_center" style="font-size: 1;">
+
+UR CIC
+
+</td>
+
+</tr>
+
+<tr>
+
+<td class="gt_row gt_right" style="font-size: 1;">
+
+7.796.823
 
 </td>
 
@@ -558,13 +558,53 @@ S. M. DE OBRAS PÚBLICAS
 
 <td class="gt_row gt_left" style="font-size: 1;">
 
-2018-07-09
+2019-04-22
 
 </td>
 
 <td class="gt_row gt_center" style="font-size: 1;">
 
-ILUMINAÇÃO PÚBLICA
+ILUMINAÇÃO PÚBLICA - VIA PÚBLICA
+
+</td>
+
+<td class="gt_row gt_center" style="font-size: 1;">
+
+UR Boa Vista
+
+</td>
+
+</tr>
+
+<tr>
+
+<td class="gt_row gt_right" style="font-size: 1;">
+
+7.866.085
+
+</td>
+
+<td class="gt_row gt_center" style="font-size: 1;">
+
+SOLICITAÇÃO
+
+</td>
+
+<td class="gt_row gt_center" style="font-size: 1;">
+
+S. M. DE OBRAS PÚBLICAS
+
+</td>
+
+<td class="gt_row gt_left" style="font-size: 1;">
+
+2019-06-05
+
+</td>
+
+<td class="gt_row gt_center" style="font-size: 1;">
+
+ILUMINAÇÃO PÚBLICA - VIA PÚBLICA
 
 </td>
 
@@ -580,7 +620,7 @@ UR Portao
 
 <td class="gt_row gt_right" style="font-size: 1;">
 
-7.492.334
+8.136.758
 
 </td>
 
@@ -592,25 +632,25 @@ SOLICITAÇÃO
 
 <td class="gt_row gt_center" style="font-size: 1;">
 
-FUNDAÇÃO DE AÇÃO SOCIAL
+S. M. DO ABASTECIMENTO
 
 </td>
 
 <td class="gt_row gt_left" style="font-size: 1;">
 
-2018-09-22
+2019-11-28
 
 </td>
 
 <td class="gt_row gt_center" style="font-size: 1;">
 
-ABORDAGEM SOCIAL DE RUA
+ARMAZÉM DA FAMÍLIA
 
 </td>
 
 <td class="gt_row gt_center" style="font-size: 1;">
 
-UR Matriz
+UR CIC
 
 </td>
 
@@ -620,7 +660,47 @@ UR Matriz
 
 <td class="gt_row gt_right" style="font-size: 1;">
 
-8.269.267
+8.288.551
+
+</td>
+
+<td class="gt_row gt_center" style="font-size: 1;">
+
+SOLICITAÇÃO
+
+</td>
+
+<td class="gt_row gt_center" style="font-size: 1;">
+
+S. M. DA SAÚDE
+
+</td>
+
+<td class="gt_row gt_left" style="font-size: 1;">
+
+2020-03-02
+
+</td>
+
+<td class="gt_row gt_center" style="font-size: 1;">
+
+FAUNA SINANTRÓPICA
+
+</td>
+
+<td class="gt_row gt_center" style="font-size: 1;">
+
+UR Portao
+
+</td>
+
+</tr>
+
+<tr>
+
+<td class="gt_row gt_right" style="font-size: 1;">
+
+7.472.341
 
 </td>
 
@@ -638,7 +718,7 @@ S. M. DO MEIO AMBIENTE
 
 <td class="gt_row gt_left" style="font-size: 1;">
 
-2020-02-18
+2018-09-04
 
 </td>
 
@@ -650,87 +730,7 @@ COLETA
 
 <td class="gt_row gt_center" style="font-size: 1;">
 
-UR Boa Vista
-
-</td>
-
-</tr>
-
-<tr>
-
-<td class="gt_row gt_right" style="font-size: 1;">
-
-8.262.553
-
-</td>
-
-<td class="gt_row gt_center" style="font-size: 1;">
-
-SOLICITAÇÃO
-
-</td>
-
-<td class="gt_row gt_center" style="font-size: 1;">
-
-S. M. DE TRÂNSITO
-
-</td>
-
-<td class="gt_row gt_left" style="font-size: 1;">
-
-2020-02-15
-
-</td>
-
-<td class="gt_row gt_center" style="font-size: 1;">
-
-TRÂNSITO
-
-</td>
-
-<td class="gt_row gt_center" style="font-size: 1;">
-
-UR Portao
-
-</td>
-
-</tr>
-
-<tr>
-
-<td class="gt_row gt_right" style="font-size: 1;">
-
-8.164.684
-
-</td>
-
-<td class="gt_row gt_center" style="font-size: 1;">
-
-SOLICITAÇÃO
-
-</td>
-
-<td class="gt_row gt_center" style="font-size: 1;">
-
-S. M. DE TRÂNSITO
-
-</td>
-
-<td class="gt_row gt_left" style="font-size: 1;">
-
-2019-12-16
-
-</td>
-
-<td class="gt_row gt_center" style="font-size: 1;">
-
-TRÂNSITO
-
-</td>
-
-<td class="gt_row gt_center" style="font-size: 1;">
-
-UR Matriz
+UR Santa Felicidade
 
 </td>
 
